@@ -1,4 +1,4 @@
-import init.aries.usb.rc
+import init.GT-P1000.usb.rc
 
 
 on boot
